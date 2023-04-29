@@ -1,8 +1,10 @@
+* {
+    font-family: 'Raleway', sans-serif;
+}
+
 .jumbotron {
-
     background: url(img/bg-main.jpg) fixed center no-repeat;
-    
-    background-size: cover;
+    background-size: cover; 
+    }
 
     
-    }
